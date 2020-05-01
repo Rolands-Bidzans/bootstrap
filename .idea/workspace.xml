@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34e0811e-f756-4494-b8fb-8ace722d88f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aWJayhaSdRuQOSoF76A2P1XVVI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/css/style.css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rolan\PhpstormProjects\BootBlackSpace" />
+      <recent name="C:\Users\rolan\PhpstormProjects\BootBlackSpace\css" />
+      <recent name="C:\Users\rolan\PhpstormProjects\BootBlackSpace\src" />
+      <recent name="C:\Users\rolan\PhpstormProjects\BootBlackSpace\src\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rolan\PhpstormProjects\BootBlackSpace\src\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34e0811e-f756-4494-b8fb-8ace722d88f0" name="Default Changelist" comment="" />
+      <created>1586845483117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586845483117</updated>
+      <workItem from="1586845484629" duration="2790000" />
+      <workItem from="1586853290488" duration="8509000" />
+      <workItem from="1586866579869" duration="5746000" />
+      <workItem from="1586954145337" duration="632000" />
+      <workItem from="1587315064623" duration="1212000" />
+      <workItem from="1587412830108" duration="2760000" />
+      <workItem from="1587415609778" duration="2495000" />
+      <workItem from="1587674673660" duration="708000" />
+      <workItem from="1587675432698" duration="1981000" />
+      <workItem from="1587836479992" duration="8604000" />
+      <workItem from="1587853130920" duration="12056000" />
+      <workItem from="1588006708961" duration="1210000" />
+      <workItem from="1588067559601" duration="53000" />
+      <workItem from="1588176504432" duration="14589000" />
+      <workItem from="1588225498538" duration="24288000" />
+      <workItem from="1588282227719" duration="232000" />
+      <workItem from="1588314876227" duration="10127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Sass" timestamp="1587415667211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Sass/0.0.1536.824@0.0.1536.824" timestamp="1587415667211" />
+    <state x="405" y="191" key="EditFileWatcherDialog" timestamp="1587935146000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="405" y="191" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1587935146000" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587849093466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587849093466" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1588176579239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588176579239" />
+    <state x="88" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588314930024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="88" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588314930024" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1588190492448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1588190492448" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587416936151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587416936151" />
+  </component>
+</project>
